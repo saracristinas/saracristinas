@@ -1,3 +1,1 @@
-- 👋 Ola, eu sou @saracristinas
-- 🌱 Estou estudando \Phyton.
-- 💞️ Gosto de Dogs e Gatinhos <3 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15A412&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Jr+de+FrontEnd+e+Phyton;Focado+em+estudos+para+Interface!!)](https://git.io/typing-svg)
