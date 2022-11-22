@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15A412&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Jr+de+FrontEnd+e+Phyton;Focado+em+estudos+para+Interface!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15A412&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Jr+de+HTML+CSS+Java Script+e+Phyton;Focado+em+estudos+para+Interface(Dev Web!!))](https://git.io/typing-svg)
