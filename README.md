@@ -24,6 +24,6 @@
 <br><li><b><font size="45">Status:</font></b></li>
 </div>
 
-![Snake animation](https://github.com/saracristinas/saracristinas/blob/output/github-contribution-grid-snake.svg)
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
  
 </div>
