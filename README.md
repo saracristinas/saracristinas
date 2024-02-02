@@ -22,8 +22,3 @@
 ![Java](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
 <br><li><b><font size="45">Status:</font></b></li>
-</div>
-
-![Snake animation](https://github.com/saracristinas/saracristinas/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
