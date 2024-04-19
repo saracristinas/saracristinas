@@ -1,3 +1,7 @@
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15A412&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Jr+de+Html/+CSS/+JavaScript/+Python+And+Java;Focada+em+estudos+para+Backend!!)](https://git.io/typing-svg)
 
 
