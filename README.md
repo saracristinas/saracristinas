@@ -14,7 +14,7 @@
 
 <br><li><b><font size="45">Social Midia:</font></b></li>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saracristinas?tab=repositories)
-[![Lindein]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-sales-dev-95520618a/](https://www.linkedin.com/in/sara-sales-95520618a/))
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-sales-dev-95520618a/](https://www.linkedin.com/in/sara-sales-95520618a/))
 
 <br><li><b><font size="45">Skills:</font></b></li>
 
